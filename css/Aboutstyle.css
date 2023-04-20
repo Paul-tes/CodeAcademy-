@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Lato;
+  font-family: Lato 'Courier New', Courier, monospace;
 }
 
 .header-logo {
@@ -54,7 +54,7 @@ header .header-bottom {
 }
 
 .header-nav-item {
-  color:#727680;
+  color: #727680;
   text-decoration: none;
   font-size: 0.9rem;
   padding: 0.6rem;
@@ -69,7 +69,6 @@ header .header-bottom {
 .color-red {
   color: #ec5242;
 }
-
 
 .menue-button {
   background: none;
@@ -124,7 +123,6 @@ header .header-bottom {
   font-weight: 500;
 }
 
-
 /* logo section */
 .logo-section-h2 {
   text-align: center;
@@ -143,7 +141,8 @@ header .header-bottom {
   margin-bottom: 2rem;
 }
 
-.logo-section-p-desktop, .past-section-p{
+.logo-section-p-desktop,
+.past-section-p {
   margin-left: 25%;
   margin-right: 25%;
   text-align: center;
@@ -219,8 +218,6 @@ header .header-bottom {
   margin-left: 6rem;
   margin-right: 6rem;
 }
-
-
 
 /* past section */
 .partner-section {
@@ -320,9 +317,6 @@ footer {
 }
  
 @media screen and (min-width: 768px) {
-
-
-
   .logo-section-p-desktop {
     display: block;
   }
@@ -413,7 +407,7 @@ footer {
   }
 
  .div-card-bootom {
-  display: block;
+    display: block;
  }
 
   .more-btn {
@@ -446,3 +440,4 @@ footer {
   margin-right: auto;
   margin-left: auto;
 }
+
