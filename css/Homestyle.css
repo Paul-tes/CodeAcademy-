@@ -343,7 +343,9 @@ footer {
 .header-nav {
   display: none;
 }
- 
+
+
+/* mobible menue */ 
 .menue-container {
   position: fixed;
   left: 0;
@@ -501,13 +503,13 @@ footer {
   
 }
 
-/* .align-center {
+.align-center {
   margin-top: auto;
   margin-bottom: auto;
-} */
-/* 
+}
+
 .horizontal-center {
   margin-right: auto;
   margin-left: auto;
-} */
+}
 
