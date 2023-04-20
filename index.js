@@ -54,11 +54,11 @@ const instructors = [
     alt: 'rober alibanos photo',
     title: 'software desinger and project manager at faccebook',
     backgroung: 'Alibanos studies software enginering in Addis Ababa university, he owns share ride applicatiion',
-  }
+  },
 ];
 
 // mobile two cards
-for (let i = 0; i < 2; i+=1) {
+for (let i = 0; i < 2; i += 1) {
   const leftCards = document.querySelector('.cards3-left');
   const card = document.createElement('div');
   card.innerHTML = `
@@ -78,7 +78,7 @@ for (let i = 0; i < 2; i+=1) {
 
 const restFourCards = () => {
   const rightCArds = document.querySelector('.cards3-right');
-  for (let i = 2; i < 6; i+=1) {
+  for (let i = 2; i < 6; i +=1 ) {
     const leftCards = document.querySelector('.cards3-left');
     const card = document.createElement('div');
     card.innerHTML = `
@@ -93,29 +93,29 @@ const restFourCards = () => {
       <p class="inst-about">${instructors[i].backgroung}</p>
     </div>
   </div>`;
-  if (i > 2) {
-    rightCArds.appendChild(card);
-  } else 
-  {
-    card.classList.add('card-h');
-    leftCards.appendChild(card);
+    if (i > 2) {
+      rightCArds.appendChild(card);
+    } else
+    {
+      card.classList.add('card-h');
+      leftCards.appendChild(card);
+    }
   }
-  }
-}
+};
 
 // call for desktop cards diplay
 restFourCards();
 
 const moreBtn = document.querySelector('.more-btn');
 const lessBtn = document.querySelector('.less-btn');
-moreBtn.addEventListener('click', ()=> {
+moreBtn.addEventListener('click', () => {
   const rightCArds = document.querySelector('.cards3-right');
   rightCArds.classList.add('display-block');
   moreBtn.classList.add('display-none');
   lessBtn.classList.add('display-block');
 });
 
-lessBtn.addEventListener('click', ()=> {
+lessBtn.addEventListener('click', () => {
   const rightCArds = document.querySelector('.cards3-right');
   rightCArds.classList.remove('display-block');
   moreBtn.classList.remove('display-none');
