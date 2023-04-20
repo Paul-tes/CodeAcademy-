@@ -316,7 +316,7 @@ footer {
 }
 
 .display-block {
-  display: none;
+  display: block;
 }
  
 @media screen and (min-width: 768px) {
@@ -437,7 +437,7 @@ footer {
   
 }
 
-/* .align-center {
+.align-center {
   margin-top: auto;
   margin-bottom: auto;
 }
@@ -445,4 +445,4 @@ footer {
 .horizontal-center {
   margin-right: auto;
   margin-left: auto;
-} */
+}
