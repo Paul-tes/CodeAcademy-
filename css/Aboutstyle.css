@@ -1,8 +1,12 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: Lato;
 }
 
+.header-logo {
+  width: 5rem;
+}
 
 .all-heads {
   background-image: url(/assests/imgs/hugo-barbosa-TnG2q8FtXsg-unsplash.jpg);
@@ -81,8 +85,9 @@ header .header-bottom {
 }
 
 .h2-hello {
-  color: #fe3c28;;
+  color: #ec5242;
   text-align: center;
+  font-weight: 300;
 }
 
 .person-icon {
@@ -119,25 +124,108 @@ header .header-bottom {
   font-weight: 500;
 }
 
-/* program section */
+
+/* logo section */
+.logo-section-h2 {
+  text-align: center;
+  color: #272a31;
+  font-weight: 600;
+  padding-top: 3rem;
+}
 
 .underline {
-  width: 50px;
-  background-color: red;
+  width: 30px;
+  font-weight: 400;
+  background-color: #ec5242;
   align-items: center;
   height: 2px;
-  margin-top: -0.3rem;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   margin-bottom: 2rem;
 }
 
-/* cards section */
-/* partener section */
+.logo-section-p-desktop, .past-section-p{
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+  color: #7b807b;
+  display: none;
+}
+
+.break-section-line {
+  height: 2px;
+  background-color: #d3ded3;
+}
+
+/* past section */
+.past-section-p {
+  display: block;
+}
+
+.past-img-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+
+.past-img1 {
+  height: 18rem;
+  width: 28rem;
+  background-image: url(/assests/imgs/medium-shot-colleagues-posing-together.jpg);
+  background-size: cover;
+  box-shadow: inset -100vw -100vh #ec534280;
+}
+
+.past-img2 {
+  height: 18rem;
+  width: 28rem;
+  background-image: url(/assests/imgs/medium-shot-colleagues-posing-together.jpg);
+  background-size: cover;
+  box-shadow: inset -100vw -100vh #ec534280;
+}
+
+.overlay-date-h3 {
+  text-align: center;
+  font-size: 2.5rem;
+  color: white;
+  margin-bottom: -1rem;
+  margin-top: 100px;
+  font-weight: 900;
+}
+
+.overlay-desc-p {
+  text-align: center;
+  color: white;
+  font-weight: 700;
+}
+
+.logo-section-p-mob {
+  margin-left: 6%;
+  margin-right: 6%;
+  text-align: center;
+  color: #7b807b;
+}
+
+.div-logo {
+  border: 1px solid #727680;
+  width: fit-content;
+  margin: 2.5rem auto;
+}
+
+.logo-section-logo {
+  width: 10rem;
+  margin-left: 6rem;
+  margin-right: 6rem;
+}
+
+
+
+/* past section */
 .partner-section {
   background-color: #191a1d;
   padding: 1rem;
-  display: none;
 }
 
 .partener-h3 {
@@ -161,16 +249,22 @@ header .header-bottom {
 footer {
   background-color: white;
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   gap: 3rem;
   padding: 1rem;
   font-size: 0.81rem;
+}
+
+.footer-p {
+  width: fit-content;
+}
+
+.footer-p-second-child {
   display: none;
 }
 
 .f-icon-size {
-  width: 5rem;
+  width: 10rem;
 }
 
 .header-nav {
@@ -178,6 +272,16 @@ footer {
 }
  
 @media screen and (min-width: 768px) {
+
+
+
+  .logo-section-p-desktop {
+    display: block;
+  }
+
+  .logo-section-p-mob {
+    display: none;
+  }
 
   .header-nav {
     display: block;
@@ -269,11 +373,18 @@ footer {
   }
 
   .partner-section {
-    display: block;
+    display: none;
   }
 
   footer {
     display: flex;
+    background-color: #191a1d;
+    color: white;
+    padding: 2rem;
+  }
+
+  .footer-p-second-child {
+    display: block;
   }
   
 }

@@ -2,6 +2,7 @@
 body {
   margin: 0;
   padding: 0;
+  font-family: Lato;
 }
 
 .all-heads {
@@ -81,6 +82,7 @@ header .header-bottom {
 
 .h2-hello {
   color: #ec5242;
+  font-weight: 300;
 }
 
 .date-duraion {
@@ -99,6 +101,7 @@ header .header-bottom {
   background-image: url(/assests/imgs//pawel-czerwinski-K9KiZckmTac-unsplash.jpg);
   background-repeat: no-repeat;
 	color: transparent;
+  font-weight: 900;
 }
 
 .head-p-div {
@@ -214,6 +217,7 @@ header .header-bottom {
 .cards-section-h2 {
   margin-top: 2rem;
   text-align: center;
+  font-size: 2rem;
 }
 
 .inst-card-container {
@@ -340,6 +344,53 @@ footer {
   display: none;
 }
  
+.menue-container {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: #7b0000eb;
+  height: 100%;
+  width: 10%;
+  transition: width 2s;
+}
+
+.close-mob-menue {
+  background: none;
+  border: none;
+  margin-top: 1rem;
+  margin-left: 4rem;
+  color: white;
+  font-weight: 700;
+  font-size: 2.3rem;
+  height: 100px;
+}
+
+.menue-item-lists {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 4rem;
+  margin-left: 2rem;
+  font-size: 1.9rem;
+  list-style: none;
+}
+
+.menue-item-lists li > a {
+  color: white;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.display-none {
+  display: none;
+}
+
+.display-block {
+  display: block;
+}
+
 @media screen and (min-width: 768px) {
 
   .header-nav {
@@ -443,19 +494,20 @@ footer {
   footer {
     display: flex;
   }
+
+  .menue-container {
+    display: none;
+  }
   
 }
 
-.align-center {
+/* .align-center {
   margin-top: auto;
   margin-bottom: auto;
-}
-
+} */
+/* 
 .horizontal-center {
   margin-right: auto;
   margin-left: auto;
-}
+} */
 
-.display-none {
-  display: none;
-}
