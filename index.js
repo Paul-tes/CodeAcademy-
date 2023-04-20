@@ -113,7 +113,17 @@ const restFourCards = () => {
 restFourCards();
 
 const moreBtn = document.querySelector('.more-btn');
+const lessBtn = document.querySelector('.less-btn');
 moreBtn.addEventListener('click', ()=> {
   const rightCArds = document.querySelector('.cards3-right');
   rightCArds.classList.add('display-block');
+  moreBtn.classList.add('display-none');
+  lessBtn.classList.add('display-block');
+})
+
+lessBtn.addEventListener('click', ()=> {
+  const rightCArds = document.querySelector('.cards3-right');
+  rightCArds.classList.remove('display-block');
+  moreBtn.classList.remove('display-none');
+  lessBtn.classList.remove('display-block');
 })

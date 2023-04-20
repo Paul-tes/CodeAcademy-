@@ -287,7 +287,8 @@ header .header-bottom {
   display: none;
  }
 
-.more-btn {
+.more-btn,
+.less-btn {
   width: 90%;
   background: none;
   border: 2px solid #d4d3d3;
@@ -485,7 +486,8 @@ footer {
   display: block;
  }
 
-  .more-btn {
+  .more-btn,
+  .less-btn {
     display: none;
   }
 
