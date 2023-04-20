@@ -78,7 +78,7 @@ for (let i = 0; i < 2; i += 1) {
 
 const restFourCards = () => {
   const rightCArds = document.querySelector('.cards3-right');
-  for (let i = 2; i < 6; i +=1 ) {
+  for (let i = 2; i < 6; i += 1) {
     const leftCards = document.querySelector('.cards3-left');
     const card = document.createElement('div');
     card.innerHTML = `
@@ -95,8 +95,7 @@ const restFourCards = () => {
   </div>`;
     if (i > 2) {
       rightCArds.appendChild(card);
-    } else
-    {
+    } else {
       card.classList.add('card-h');
       leftCards.appendChild(card);
     }
