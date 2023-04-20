@@ -120,20 +120,6 @@ header .header-bottom {
 }
 
 /* program section */
-.program-section {
-  background-color: #1c1d21;
-  background-image: url(/assests/imgs/icons8-x-vpn-50.png);
-  background-size: 1rem;
-  margin-top: -2rem;
-  overflow: auto;
-}
-
-.program-h3 {
-  text-align: center;
-  color: white;
-  margin-top: 3rem;
-  margin-bottom: 2rem;
-}
 
 .underline {
   width: 50px;
@@ -144,73 +130,6 @@ header .header-bottom {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 2rem;
-}
-
-.program-cards-collection {
-  width: 90%;
-  margin-left: 1rem;
-  margin-right: rem;
-  margin-top: 1rem;
-  display: flex;
-  flex-wrap: wrap;
-  grid-row: 1fr;
-  gap: 1rem;
-}
-
-.program-card {
-  display: flex;
-  padding: 1rem;
-  display: flex;
-  gap: 1rem;
-  background-color: #8080802e;
-}
-
-.pc-left {
-  display: flex;
-  justify-content: space-between;
-  gap: 1rem;
-}
-
-.program-icon {
-  color: white;
-  font-size: 2rem;
-}
-
-.pc-left-t {
-  color: #ec5242;
-  font-weight: 600;
-  font-size: 1.2rem;
-}
-
-.pc-right {
-  display: flex;
-}
-
-.pc-r-p {
-  color: #e4e4e4;
-  font-size: 0.9rem;
-}
-
-.desktop-see-hole-program {
-  color: #d4d3d3;
-  text-decoration: underline;
-  margin-left: 40%;
-  display: none;
-  margin-bottom: 4rem;
-}
-
-.apply-btn {
-  padding: 2rem;
-  background-color: #ec5242;
-  color: white;
-  border: none;
-  font-size: 1.2rem;
-  width: 70%;
-  text-align: center;
-  margin-top: 3rem;
-  margin-left: 15%;
-  margin-bottom: 4rem;
-  font-weight: 700;
 }
 
 /* cards section */
