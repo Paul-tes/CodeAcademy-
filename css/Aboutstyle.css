@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Lato 'Courier New', Courier, monospace;
+  font-family: Lato, serif, sans-serif, cursive, fantasy, and monospace;
 }
 
 .header-logo {
@@ -396,7 +396,7 @@ footer {
   .cards3-left {
     width: 48%;
   }
-  
+
   .cards3-right {
     width: 48%;
   }
@@ -405,9 +405,9 @@ footer {
     display: flex;
   }
 
- .div-card-bootom {
-  display: block;
- }
+  .div-card-bootom {
+    display: block;
+  }
 
   .more-btn {
     display: none;
@@ -438,4 +438,3 @@ footer {
   margin-right: auto;
   margin-left: auto;
 }
-
