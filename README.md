@@ -26,9 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio] <a name="about-project"></a>
+# 📖 [BootCamp] <a name="about-project"></a>
 
-**Portfolio** This is a web application that shows a  personal portfolio. This portfolio web page  is a compilation of academic and professional materials that exemplifies my  skills, qualifications, education, training, and experiences. 
+**Portfolio** This is a web application that shows a boot camp school given by code acadamy. the description of these web is to show all information about the code acadamy bootcamp. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -38,6 +38,7 @@
   <ul>
     <li><a href="https://websitesetup.org/html-tutorial-beginners/">Html</a></li>
     <li><a href="https://www.codecademy.com/learn/learn-css">Css</a></li>
+    <li><a href="https://www.codecademy.com/learn/learn-css">Javascript</a></li>
   </ul>
 </details>
 
@@ -63,6 +64,8 @@
 - **accessible heading**
 - **color full heading**
 - **smoth lokking**
+- **interactive buttons**
+- **dynamic cards**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +75,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [my-portfolio](https://paul-tes.github.io/)
+- [CodeAcadamy](https://www.loom.com/share/87b8caad57e444ffb65e3db3e063493e)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,13 +118,6 @@ You can deploy this project using:
 
 - GitHub: [@paul-tes](https://github.com/paul-tes)
 - LinkedIn: [paul](https://www.linkedin.com/in/paul-tesfaye-687820215/)
-
-
-👤 **Yashodhi Chathurangi**
-
-- GitHub: https://github.com/yashodhicy/
-- Twitter: https://twitter.com/Yashichathucy
-- LinkedIn: https://www.linkedin.com/in/yashodhichathurangi/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
