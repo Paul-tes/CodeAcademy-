@@ -329,12 +329,12 @@ header .header-bottom {
 footer {
   background-color: white;
   display: flex;
+  display: none;
   flex-wrap: wrap;
   justify-content: center;
   gap: 3rem;
   padding: 1rem;
   font-size: 0.81rem;
-  display: none;
 }
 
 .f-icon-size {
@@ -345,8 +345,8 @@ footer {
   display: none;
 }
 
-
 /* mobible menue */ 
+
 .menue-container {
   position: fixed;
   left: 0;
@@ -395,7 +395,6 @@ footer {
 }
 
 @media screen and (min-width: 768px) {
-
   .header-nav {
     display: block;
     position: fixed;
@@ -473,7 +472,7 @@ footer {
   .cards3-left {
     width: 48%;
   }
-  
+
   .cards3-right {
     width: 48%;
   }
@@ -482,9 +481,9 @@ footer {
     display: flex;
   }
 
- .div-card-bootom {
-  display: block;
- }
+  .div-card-bootom {
+   display: block;
+  }
 
   .more-btn,
   .less-btn {
@@ -502,7 +501,6 @@ footer {
   .menue-container {
     display: none;
   }
-  
 }
 
 .align-center {
@@ -514,4 +512,3 @@ footer {
   margin-right: auto;
   margin-left: auto;
 }
-
