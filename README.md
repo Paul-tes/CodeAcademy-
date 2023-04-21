@@ -74,8 +74,8 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-- [CodeAcadamy](https://www.loom.com/share/87b8caad57e444ffb65e3db3e063493e)
+- [Learn FullStack]](https://paul-tes.github.io/Capstone-1/)
+- [Learn FullStack web vedio Demo](https://www.loom.com/share/8cd1e1e6c75445208826dfe75b38878e)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,8 +156,8 @@ If you like this project make sure to give it a star 🌟
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank Microverse Team.
-
++ I would like to thank Microverse Team.
++ [Cindy Shin](https://www.behance.net/adagio07) Smart GUI & Creative Graphic Designer
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
