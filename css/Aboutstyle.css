@@ -240,7 +240,6 @@ header .header-bottom {
 
 .p-icon-size {
   width: 10rem;
-  height: fit-content;
 }
 
 footer {
@@ -315,7 +314,7 @@ footer {
 .display-block {
   display: block;
 }
- 
+
 @media screen and (min-width: 768px) {
   .logo-section-p-desktop {
     display: block;
@@ -407,7 +406,7 @@ footer {
   }
 
  .div-card-bootom {
-    display: block;
+  display: block;
  }
 
   .more-btn {
@@ -428,7 +427,6 @@ footer {
   .footer-p-second-child {
     display: block;
   }
-  
 }
 
 .align-center {
