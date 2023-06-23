@@ -26,9 +26,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio] <a name="about-project"></a>
+# 📖 [Code Accadamy] <a name="about-project"></a>
 
-**Portfolio** This is a web application that shows a  personal portfolio. This portfolio web page  is a compilation of academic and professional materials that exemplifies my  skills, qualifications, education, training, and experiences. 
+**Code Academy** Code Academy is a comprehensive website that provides all the information you need about our cutting-edge Boot Camp program. Our platform features detailed information about our upcoming class dates, as well as experienced instructors who will guide you through your coding journey. Additionally, our website provides valuable insights into the Code Academy Boot Camp experience, showcasing the innovative curriculum and teaching methods that make our program stand out from the rest.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -62,7 +62,7 @@
 ### Key Features <a name="key-features"></a>
 - **accessible heading**
 - **color full heading**
-- **smoth lokking**
+- **smooth looking**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +72,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [my-portfolio](https://paul-tes.github.io/)
+- [Live Demo](https://paul-tes.github.io/CodeAcademy-/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,24 +85,24 @@
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-In order to run this project you need:
-- install web broweser
+In order to run this project, you need:
+- a web browser
+- 
 ### Setup
 Clone this repository to your desired folder:
-- git clone https://github.com/Paul-tes/Hello-Microverse.git
+- download a zip file from my [repo](https://github.com/Paul-tes/CodeAcademy)
+- extract the file on your desktop.
+  
 ### Install
-Install this project with:
-### Usage
+Static site, no need to install:
 
+### Usage
 To run the project, execute the following command:
-- open index.html with your browser that found in Hello-Microverse folder 
+open index.html with your browser.
 
 ### Run tests
+N/A
 
-To run tests, follow the following procedures:
-- right Click + open With + chrome
-### Deployment
-You can deploy this project using:
 - GitHub pages
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,13 +115,6 @@ You can deploy this project using:
 
 - GitHub: [@paul-tes](https://github.com/paul-tes)
 - LinkedIn: [paul](https://www.linkedin.com/in/paul-tesfaye-687820215/)
-
-
-👤 **Yashodhi Chathurangi**
-
-- GitHub: https://github.com/yashodhicy/
-- Twitter: https://twitter.com/Yashichathucy
-- LinkedIn: https://www.linkedin.com/in/yashodhichathurangi/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -170,7 +163,5 @@ I would like to thank Microverse Team.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
