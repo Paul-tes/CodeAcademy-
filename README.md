@@ -38,6 +38,7 @@
   <ul>
     <li><a href="https://websitesetup.org/html-tutorial-beginners/">Html</a></li>
     <li><a href="https://www.codecademy.com/learn/learn-css">Css</a></li>
+    <li><a href="https://www.codecademy.com/learn/learn-css">Javascript</a></li>
   </ul>
 </details>
 
@@ -62,7 +63,9 @@
 ### Key Features <a name="key-features"></a>
 - **accessible heading**
 - **color full heading**
-- **smooth looking**
+- **smoth lokking**
+- **interactive buttons**
+- **dynamic cards**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,9 +74,8 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo](https://paul-tes.github.io/CodeAcademy-/)
-
+- [Learn FullStack]](https://paul-tes.github.io/Capstone-1/)
+- [Learn FullStack web vedio Demo](https://www.loom.com/share/8cd1e1e6c75445208826dfe75b38878e)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -153,8 +155,8 @@ If you like this project make sure to give it a star 🌟
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank Microverse Team.
-
++ I would like to thank Microverse Team.
++ [Cindy Shin](https://www.behance.net/adagio07) Smart GUI & Creative Graphic Designer
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
