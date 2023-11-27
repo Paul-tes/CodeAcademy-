@@ -74,7 +74,7 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [Learn FullStack]](https://paul-tes.github.io/Capstone-1/)
+- [Learn FullStack](https://paul-tes.github.io/CodeAcademy-/)
 - [Learn FullStack web vedio Demo](https://www.loom.com/share/8cd1e1e6c75445208826dfe75b38878e)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
