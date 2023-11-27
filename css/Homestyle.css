@@ -95,10 +95,8 @@ header .header-bottom {
 
 .head-secion h1 {
   font-size: 2.5rem;
-  -webkit-background-clip: text;
-  background-image: url(/assests/imgs//pawel-czerwinski-K9KiZckmTac-unsplash.jpg);
   background-repeat: no-repeat;
-  color: transparent;
+  color:#d33321;
   font-weight: 900;
 }
 
